@@ -36,6 +36,17 @@ body {
   display: block;
   position: absolute;
   bottom: 0;
-  height: 65px;
-  width: 65px;
+  height: 60px;
+  width: 60px;
+  background-image: url("../img/dino.png");
+}
+.cactus {
+  display: block;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  height: 40px;
+  width: 40px;
+  background-image: url("../img/cactus.png");
+  background-size: 40px 40px;
 }
